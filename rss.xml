@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Heidi Landau]]></title>
         <description><![CDATA[Heidi Landau]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/heidi-landau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 17:42:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 20:02:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heidi-landau/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Passionate Animal & Human Rights Evangelist, Spiritual Humanist, Children’s Charity CEO, Luxury Marketing & Events Maven, Aficionado of Delectable Delights & La Dolce Vita, Fashion & Space Stylist, and Observer of Life with Compassion, Intelligence, Creativity & Patina of Good Taste. ]]></title>
+            <description><![CDATA[<h1>Passionate Animal & Human Rights Evangelist, Spiritual Humanist, Children’s Charity CEO, Luxury Marketing & Events Maven, Aficionado of Delectable Delights & La Dolce Vita, Fashion & Space Stylist, and Observer of Life with Compassion, Intelligence, Creativity & Patina of Good Taste. </h1>]]></description>
+            <link>https://thegrid.ai/heidi-landau/588e63eb-f45c-4e86-9d4e-eb90b720cb91/index.html</link>
+            <guid isPermaLink="false">588e63eb-f45c-4e86-9d4e-eb90b720cb91</guid>
+            <pubDate>Mon, 11 Jan 2016 20:02:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7803a8aa-159a-4b30-811d-0dc3942487da.jpg">]]></description>
-            <link>undefined5babb299-3f5b-417f-bcaa-05b59f7e01d6/index.html</link>
+            <link>https://thegrid.ai/heidi-landau/5babb299-3f5b-417f-bcaa-05b59f7e01d6/index.html</link>
             <guid isPermaLink="false">5babb299-3f5b-417f-bcaa-05b59f7e01d6</guid>
             <pubDate>Mon, 11 Jan 2016 17:42:19 GMT</pubDate>
         </item>
