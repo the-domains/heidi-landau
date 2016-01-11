@@ -1,0 +1,28 @@
+name: Heidi Landau
+favicon: null
+layout_spectrum: 0.23811179911717772
+typography_spectrum: 0.867487448034808
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.48122739722020924
+  lightness: 0.5097068371251225
+  saturation: 0.9661425719968975
+  rhythmicContrast: 0.4319841905962676
+purpose: []
